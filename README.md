@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdy - ydhemtek</h1>
-<h3 align="center">Computer science studentGenerate README</h3>
+<h3 align="center">Computer science student</h3>
 <p align="center">😎I like ethical hacking and osint, I usually train on HackTheBox or TryHackMe</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydhemtek&label=Profile%20views&color=0e75b6&style=flat" alt="ydhemtek" /> </p>
 
